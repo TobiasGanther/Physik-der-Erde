@@ -18,12 +18,15 @@ In diesem Notebook kann man sich mit Reflexionsseismik beschäftigen.
 
 # Seis_Refraction
 In diesem Notebook kann man sich mit Refraktionsseismik beschäftigen.
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TobiasGanther/Seis_Refraction/main?filepath=Seis_Refraction.ipynb)
 
 # Vertical_Resolution
 Tiefenauflösung und Forwärtsmodellierung
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TobiasGanther/Vertical_Resolution/main?filepath=Seis_VerticalResolution.ipynb)
 
 # Seis_Applet
 Allegemeines Notebook, welches Strahlenwege und Geschwindigkeitsdiagramme zeigt.
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TobiasGanther/Seis_Applet/main?filepath=SeismicApplet.ipynb)
